@@ -25,6 +25,6 @@
     </section>
     </div>
    
-    <script src="me_perdonas.js"></script>
+    <script src="otra_oportunidad.js"></script>
 </body>
 </html>
