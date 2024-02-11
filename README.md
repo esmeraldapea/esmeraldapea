@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Te amo</title>
     
-    <link rel="stylesheet" href="me_perdonas.css">
+        <link rel="stylesheet" href=¿nos_damos_otra_oportunidad?.css">
     
     
     <style>
@@ -17,8 +17,8 @@
 </head>
 <body>  
         <div>
-            <p id="p" hidden>Yo tambien te amo</p>
-        <h1 id="1">Me Perdonas</h1>
+            <p id="p" hidden>Gracias, te amo</p>
+        <h1 id="1">¿Nos damos otra oportunidad?</h1>
         <section>
         <button id="Si">Si</button>
         <button id="No">No</button>
